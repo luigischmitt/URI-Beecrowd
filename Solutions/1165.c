@@ -1,4 +1,4 @@
-// beecrowd | 1221 (Fast Prime Number)
+// beecrowd | 1165 (Prime Number)
 
 #include <stdio.h>
 #include <math.h>
@@ -25,12 +25,11 @@ int main() {
         scanf("%lld", &n);  // Read each number
 
         if (is_prime(n)) {
-            printf("Prime\n");
+            printf("%d eh primo\n", n);
         } else {
-            printf("Not Prime\n");
+            printf("%d nao eh primo\n", n);
         }
     }
 
     return 0;
 }
-
