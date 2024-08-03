@@ -1,4 +1,4 @@
-// beecrowd | 1042 (Simple Sort)
+// beecrowd | 1042 (Simple Sort) - não finalizado
 
 #include <stdio.h>
 
