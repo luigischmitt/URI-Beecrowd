@@ -7,14 +7,14 @@ int main() {
     int a, b;
     float salary, c;
 
-    scanf("%d", a);
-    scanf("%d", b);
-    scanf("%d", c);
+    scanf("%d", &a);
+    scanf("%d", &b);
+    scanf("%f", &c);
 
     salary = b*c;
 
-    printf("NUMBER = %d", a);
-    printf("SALARY = U$ %.2f", salary);
+    printf("NUMBER = %d\n", a);
+    printf("SALARY = U$ %.2f\n", salary);
 
     return 0;
 }

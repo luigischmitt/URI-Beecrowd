@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "iostream": "cpp",
+        "iomanip": "cpp",
+        "random": "cpp"
     }
 }
