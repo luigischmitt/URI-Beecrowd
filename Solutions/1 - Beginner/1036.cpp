@@ -1,4 +1,4 @@
-// beecrowd | 1036 (Bhaskara's Formula)
+//  beecrowd | 1036 (Bhaskara's Formula)
 
 #include <iostream>
 #include <cmath>

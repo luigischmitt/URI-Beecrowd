@@ -1,4 +1,4 @@
-// beecrowd | 1035 (Selection Test 1)
+//  beecrowd | 1035 (Selection Test 1)
 
 #include <iostream>
 

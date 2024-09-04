@@ -1,4 +1,4 @@
-// beecrowd | 1038 (Snack)
+//  beecrowd | 1038 (Snack)
 
 #include <iostream>
 #include <iomanip>
